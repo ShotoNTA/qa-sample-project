@@ -10,6 +10,7 @@ This repository showcases my basic skills in **manual software testing**, QA doc
 This repo is part of my GitHub portfolio, highlighting my experience as a QA Engineer and Business Analyst.
 
 📄 Included:
-- `test-cases.md`: manual test scenarios
-- `bug-report-template.md`: standard bug report structure
-- `user-stories.md`: user stories in Agile format
+- `user-function-checklist.md`: manual test scenarios and user stories
+- `use-case.md`: use case diagram
+- `site-map.md`: site map diagram
+- `qa-sop.md`: qa standard opearting procedure
