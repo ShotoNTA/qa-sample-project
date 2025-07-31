@@ -11,6 +11,6 @@ This repo is part of my GitHub portfolio, highlighting my experience as a QA Eng
 
 📄 Included:
 - `user-function-checklist.md`: manual test scenarios and user stories
-- `use-case.md`: use case diagram
-- `site-map.md`: site map diagram
-- `qa-sop.md`: qa standard opearting procedure
+- `use-case.svg`: use case diagram
+- `site-map.jpg`: site map diagram for access control page
+- `qa-sop.docx`: qa standard opearting procedure
